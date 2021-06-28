@@ -1,5 +1,5 @@
 .sidebar {
-  height: 400px;
+  height: 415px;
   width: 100px;
   position: fixed;
   top: 0;
@@ -14,15 +14,16 @@
   display: block;
 }
 .icon {
-  height: 30px;
-  width: 30px;
+  height: 40px;
+  width: 40px;
+  padding: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   align-items: center;
 }
 body {
-  margin-left: 100px;
+  margin-left: 110px;
 }
 #gif {
   margin-left: auto;
