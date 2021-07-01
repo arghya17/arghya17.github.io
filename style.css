@@ -4,8 +4,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding-top: 25vh;
 }
 
 .icon {
@@ -20,6 +19,7 @@
 }
 body {
   margin-left: 110px;
+  margin-right: 110px;
   overflow: auto;
   background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 }
@@ -31,12 +31,21 @@ body {
   display: block;
 }
 .a1 {
-  margin-left: 10px;
-  font-size: 40px;
-  font-family: "Noto Sans", sans-serif;
+  margin-left: 20px;
+  font-size: 60px;
+  font-family: "Raleway", sans-serif;
+  font-weight: lighter;
+  text-decoration: underline rgb(71, 87, 110);
+  text-shadow: 2px 3px 2px rgb(70, 66, 70);
 }
 .Social {
   height: 40px;
   width: 40px;
   padding: 10px;
+}
+p,
+li {
+  font-size: 30px;
+  font-family: Dancing Script, Cursive;
+  /*font-family: "Josefin Slab", serif;*/
 }
