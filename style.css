@@ -6,7 +6,6 @@
   left: 0;
   padding-top: 25vh;
 }
-
 .icon {
   height: 40px;
   width: 40px;
@@ -19,7 +18,7 @@
 }
 body {
   margin-left: 110px;
-  margin-right: 110px;
+  margin-right: 10vw;
   overflow: auto;
   background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 }
